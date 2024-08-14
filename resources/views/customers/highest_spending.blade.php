@@ -11,7 +11,7 @@
 
 <body>
 <div class="card-header">
-    <a href="{{ route('customers.index') }}" class="btn btn-primary mt-4" >
+    <a href="{{ route('customers.index') }}" class="btn btn-primary" >
 <i class="fas fa-arrow-left"></i>
 </a>
 </div>
