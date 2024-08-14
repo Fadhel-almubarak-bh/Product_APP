@@ -1,7 +1,7 @@
 
 # Product system
 
-This is a small system that contains page to show products from two mariadbs. I build this project as a task for xs4arabia upon request.
+This is a small system that contains pages to show products from two mariadbs. I built this project as a task for xs4arabia upon request.
 
 
 
